@@ -1,5 +1,20 @@
 # Cryptocurrency arbitrage finder
 
+## No longer maintained
+
+I do not maintain this project any more. The trading tool I still keep is
+[funding-rate-tools](https://github.com/jooray/funding-rate-tools), which fetches
+perpetual funding rates, stores them and calculates annualized rates.
+
+For what I am building now, see my
+[project showcase](https://juraj.bednar.io/showcase/).
+
+I also write books and work on things that are not code: my cypherpunk novel
+[Tamers of Entropy](https://tamersofentropy.net/), my English podcast
+[Option Plus](https://optionplus.io/), [my blog](https://juraj.bednar.io/en/blog-en/),
+and [everything else](https://juraj.bednar.io/en). There is also
+[more about me](https://juraj.bednar.io/en/about-me/).
+
 This simple script will use APIs of popular cryptocurrency exchanges in order to find arbitrage opportunities.
 
 ## Installation
